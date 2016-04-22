@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
+  <remote  name="jc"
+           review="mailto:bigbiff@teamw.in"
+           fetch="https://github.com/jcadduono" />
+
   <remote  name="xda"
            fetch=".." />
 
